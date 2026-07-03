@@ -1,0 +1,27 @@
+header{
+    background: #08742e;
+    color: #f2f2f2;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 40,20;    
+}
+
+nav{
+    display: flex;
+    gap: 40px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #f2f2f2;
+    padding: 20px;
+    background: chartreuse;    
+}
+.card img{
+    height: 100%;
+    width: 200px;
+    object-fit: cover;
+
+}

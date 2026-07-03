@@ -1,0 +1,96 @@
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\appsettings.json
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\aula 6.staticwebassets.runtime.json
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\aula 6.staticwebassets.endpoints.json
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\aula 6.exe
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\aula 6.deps.json
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\aula 6.runtimeconfig.json
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\aula 6.dll
+C:\Users\Aluno\Desktop\aula 6\bin\Debug\net9.0\aula 6.pdb
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.RazorAssemblyInfo.cache
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.RazorAssemblyInfo.cs
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\scopedcss\bundle\aula 6.styles.css
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\scopedcss\projectbundle\aula 6.bundle.scp.css
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\hibvqfdjxb-61n19gt1b8.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\b5s34a9eby-xtxxf3hu2r.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\erbj44tu6o-bqjiyaj88i.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\6khs7is3m6-c2jlpeoesf.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\l4vovrnjgp-erw9l3u2r3.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\291zmjrjse-aexeepp0ev.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\t3z0f2pmjx-d7shbmvgxk.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\ai4mr7be2r-ausgxo2sd3.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\tgado4rujq-k8d9w2qqmf.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\kr1e2mhh22-cosvhxvwiu.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\l2p3q8r7vj-ub07r2b239.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\9ome1ca3gv-fvhpjtyr6v.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\d5r0tpbt67-b7pk76d08c.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\51zxbl6hqq-fsbi9cje9m.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\3nk24be4xw-rzd6atqjts.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\24g6u0jmo8-ee0r1s7dh0.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\4twgv7ygqe-dxx9fxp4il.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\cf52a8owu2-jd9uben2k1.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\3s291snkqa-khv3u5hwcm.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\9lhqvwbe67-r4e9w2rdcm.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\6zhwk853v1-lcd1t2u6c8.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\xzvawtf0mk-c2oey78nd0.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\hlprirrw3y-tdbxkamptv.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\jzgmoqcec9-j5mq2jizvt.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\ky8ssqyj0f-06098lyss8.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\ilzhp9w78d-nvvlpmu67g.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\u17faelt0y-s35ty4nyc5.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\mc378z0e58-pj5nd1wqec.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\3lxl27202r-46ein0sx1k.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\cpxlmhlog5-v0zj4ognzu.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\9q2vh4clms-37tfw0ft22.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\3fkq3rvhym-hrwsygsryq.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\ufgu9aff0t-pk9g2wxc8p.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\is7wq8kmuw-ft3s53vfgj.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\ax8gk5v3r4-6cfz1n2cew.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\7kl7zpvd77-6pdc2jztkx.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\26ulliyr98-493y06b0oq.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\shapslekpr-iovd86k7lj.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\8qquq66p9d-vr1egmr9el.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\6bfhjowxyy-kbrnm935zg.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\xezjbztsl9-jj8uyg4cgr.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\np51aomgmv-y7v9cxd14o.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\3yc3wc40jt-notf2xhcfb.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\rbue6tqlgq-h1s4sie4z3.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\dlgasjl1h8-63fj8s7r0e.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\r41hvd0tg7-0j3bgjxly4.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\tahuh5pz5w-47otxtyo56.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\jlwcezaa4x-4v8eqarkd7.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\prlem6vni0-356vix0kms.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\6xxsourkl5-83jwlth58m.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\2hsix5qzql-mrlpezrjn3.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\ta0i3fip7q-lzl9nlhx6b.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\bu8a5vo7zp-ag7o75518u.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\af0uxu1hxj-x0q3zqp4vz.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\zr7wp8bu5o-0i3buxo5is.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\g5v7owu7n3-o1o13a6vjx.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\fclyj421jf-ttgo8qnofa.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\tlu0mrkoeq-2z0ns9nrw6.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\k1tria78uf-muycvpuwrr.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\o1gojl67rh-87fc7y1x7t.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\v0z6a4nyi4-mlv21k5csn.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\5bxv10daiv-0duqp2wo0e.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\q4tm5z3ixk-0duqp2wo0e.gz
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.dll
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\refint\aula 6.dll
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.pdb
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\aula 6.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\ref\aula 6.dll
+C:\Users\Aluno\Desktop\aula 6\obj\Debug\net9.0\compressed\1nf7tk7ic4-2cmjnujtor.gz

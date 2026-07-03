@@ -1,0 +1,37 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@{
+    string mensagem ="";
+    string produto1 =Request.Query["produto1"];
+    string produto2 =Request.Query["produto2"];
+
+   double p1 = double.Parse(produto1);
+    double p2 = double.Parse(produto2);
+    double valorTotal =(p1+p2);
+
+    if(valorTotal >=200){
+        mensagem ="voce tem desconto";
+    }
+    else{
+        mensagem="voce nao tem desconto";
+    }
+    
+}
+
+<h1>produtos</h1>
+<form>
+    <label >digite o valor do primeiro produto</label>
+    <input type="number" name="produto1"><br><br>
+    <label >digite o valor do primeiro produto</label>
+    <input type="number" name="produto2"><br><br>
+
+    <button> ver valor</button>
+    
+</form>
+<h2>valor final</h2>
+<p>@valorTotal</p>
+<p>@mensagem</p>

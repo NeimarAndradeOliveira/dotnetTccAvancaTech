@@ -1,0 +1,55 @@
+@page
+
+@model  tcc_neimar.Pages.UsuariosModel
+
+<h1>cadastrar Usuarios</h1>
+<a href="/CadastrarUsuarios"
+       class="btn btn-success mb-3">
+        Novo Usuario
+    </a>
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Sexo</th>
+                <th>Endereco</th>
+                <th>Telefone</th>
+                <th>Email</th>
+                <th>Patologia</th>
+                <th>Tipo_Patologia</th>
+                <th>Tipo_de_exame</th>
+                <th>Resultado</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach(var item in Model.Usuarios)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nome</td>
+                <td>@item.Idade</td>
+                <td>@item.Sexo</td>
+                <td>@item.Endereco</td>
+                <td>@item.Telefone</td>
+                <td>@item.Email</td>
+                <td>@item.Patologia</td>
+                <td>@item.TipoPatologia</td>
+                <td>@item.TipoExame</td>
+                <td>@item.Resultado</td>
+                <td>
+                    <a href="/EditarUsuarios?id=@item.Id"
+                       class="btn btn-warning">
+                        Editar
+                    </a>
+                    <a href="/ExcluirUsuarios?id=@item.Id"
+                       class="btn btn-danger">
+                        Excluir
+                    </a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

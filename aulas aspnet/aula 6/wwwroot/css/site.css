@@ -1,0 +1,29 @@
+.menu{
+  background-color: bisque;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.links{
+  display: flex;
+  gap: 30px;
+  text-decoration: none;
+}
+.links a{
+
+  display: flex;
+  color: rgb(204, 189, 170);
+  font-size: 20px;
+  padding: 30 px;
+  text-decoration: none;
+
+  
+}
+.rodape{
+
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  background-color: rgb(21, 7, 50);
+  color: antiquewhite;
+}

@@ -1,0 +1,232 @@
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\appsettings.json
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\tcc neimar.staticwebassets.runtime.json
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\tcc neimar.staticwebassets.endpoints.json
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\tcc neimar.exe
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\tcc neimar.deps.json
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\tcc neimar.runtimeconfig.json
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\tcc neimar.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\tcc neimar.pdb
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\MySql.Data.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Desktop\tcc neimar\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.RazorAssemblyInfo.cache
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.RazorAssemblyInfo.cs
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\scopedcss\bundle\tcc neimar.styles.css
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\scopedcss\projectbundle\tcc neimar.bundle.scp.css
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\b259h6ynw8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\c26al0jahh-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\mnzfow2tje-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\i634i17pih-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\ifu57yhavc-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\h97e63pdbj-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\1fbimuubf7-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\010gdb1rcy-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\1bc97kmz7b-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\5v67i05fq8-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\hrxp0n5c47-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\g6ab229d8o-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\qcnx11my9c-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\3nccajkp0y-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\tya4s98u8h-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\6n2x8iykfe-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\4pshc6itce-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\ftsc1klyzv-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\hlbzjhfyqh-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\qn15vzxhm2-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\0p2qg8vjdh-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\a5vg9h4it2-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\gnzmiolmns-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\z66y13uw7j-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\gt5xe58r2b-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\eldzp3j2hn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\h8u35ep1q4-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\cesm3cc76v-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\itoo326cop-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\y0w1ryiszv-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\04617h8dgw-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\1ff7cc5hhb-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\u3eaup5o7n-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\4chr4dlk88-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\ydo5vv5alg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\jvkyc8sa1g-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\njjie51qtu-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\sewh15h9k2-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\1p8pdftfmy-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\ln5kbw1a8r-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\qd459shia2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\my5k6ergom-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\bnanttehgo-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\cwmxjlfhqf-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\j0glmwdnl9-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\zymz2qzfum-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\7dbbeoxtk1-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\6h1hl9w5r1-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\c2i7jj3kwo-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\hjzh1ucz77-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\i7pfms48zd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\u45otx47iv-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\jaeoz49uxq-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\kx9rmdpu9p-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\kyae6zuf9z-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\qegsoftqe3-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\b02gm1f3b5-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\hy23k2pwdi-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\ljjk6ssjmb-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\1z1lu3vpwu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\rconaoyixc-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.csproj.Up2Date
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.dll
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\refint\tcc neimar.dll
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.pdb
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\tcc neimar.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\ref\tcc neimar.dll
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\3t8g046gf3-{0}-k42r4nj8wo-k42r4nj8wo.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\esy4qi2rpc-{0}-eslgmxw9mb-eslgmxw9mb.gz
+C:\Users\Aluno\Desktop\tcc neimar\obj\Debug\net10.0\compressed\agucoigbvi-{0}-eslgmxw9mb-eslgmxw9mb.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\appsettings.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\tcc neimar.staticwebassets.endpoints.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\tcc neimar.staticwebassets.runtime.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\tcc neimar.exe
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\tcc neimar.deps.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\tcc neimar.runtimeconfig.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\tcc neimar.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\tcc neimar.pdb
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\MySql.Data.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.RazorAssemblyInfo.cache
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.RazorAssemblyInfo.cs
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\scopedcss\bundle\tcc neimar.styles.css
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\scopedcss\projectbundle\tcc neimar.bundle.scp.css
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\3t8g046gf3-{0}-k42r4nj8wo-k42r4nj8wo.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\b259h6ynw8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\c26al0jahh-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\mnzfow2tje-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\i634i17pih-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\ifu57yhavc-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\h97e63pdbj-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\1fbimuubf7-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\010gdb1rcy-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\1bc97kmz7b-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\5v67i05fq8-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\hrxp0n5c47-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\g6ab229d8o-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\qcnx11my9c-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\3nccajkp0y-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\tya4s98u8h-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\6n2x8iykfe-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\4pshc6itce-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\ftsc1klyzv-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\hlbzjhfyqh-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\qn15vzxhm2-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\0p2qg8vjdh-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\a5vg9h4it2-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\gnzmiolmns-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\z66y13uw7j-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\gt5xe58r2b-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\eldzp3j2hn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\h8u35ep1q4-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\cesm3cc76v-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\itoo326cop-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\y0w1ryiszv-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\04617h8dgw-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\1ff7cc5hhb-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\u3eaup5o7n-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\4chr4dlk88-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\ydo5vv5alg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\jvkyc8sa1g-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\njjie51qtu-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\sewh15h9k2-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\1p8pdftfmy-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\ln5kbw1a8r-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\qd459shia2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\my5k6ergom-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\bnanttehgo-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\cwmxjlfhqf-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\j0glmwdnl9-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\zymz2qzfum-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\7dbbeoxtk1-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\6h1hl9w5r1-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\c2i7jj3kwo-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\hjzh1ucz77-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\i7pfms48zd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\u45otx47iv-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\jaeoz49uxq-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\kx9rmdpu9p-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\kyae6zuf9z-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\qegsoftqe3-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\b02gm1f3b5-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\hy23k2pwdi-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\ljjk6ssjmb-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\1z1lu3vpwu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\rconaoyixc-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\esy4qi2rpc-{0}-eslgmxw9mb-eslgmxw9mb.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\compressed\agucoigbvi-{0}-eslgmxw9mb-eslgmxw9mb.gz
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.csproj.Up2Date
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\refint\tcc neimar.dll
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.pdb
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\tcc neimar.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\aulas aspnet\tcc neimar\obj\Debug\net10.0\ref\tcc neimar.dll

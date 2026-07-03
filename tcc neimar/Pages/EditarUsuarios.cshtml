@@ -1,0 +1,67 @@
+@page
+@model  tcc_neimar.Pages.EditarUsuariosModel
+
+
+<div class="container mt-5">
+
+
+    <h1 class="mb-4"> Editar Usuario </h1>
+    <form method="post">
+        <input asp-for="Usuarios.Id" type="hidden">
+
+
+        <div class="mb-3">
+            <label class="form-label"> Nome  </label>
+            <input asp-for="Usuarios.Nome" class="form-control">
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label"> Idade </label>
+            <input asp-for="Usuarios.Idade" class="form-control">
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label"> Sexo </label>
+            <input asp-for="Usuarios.Sexo" class="form-control">
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label"> Endereço </label>
+            <input asp-for="Usuarios.Endereco" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label class="form-label"> Telefone </label>
+            <input asp-for="Usuarios.Telefone" class="form-control">
+        </div>
+         <div class="mb-3">
+            <label class="form-label"> E-mail </label>
+            <input asp-for="Usuarios.Email" class="form-control">
+        </div>
+         <div class="mb-3">
+            <label class="form-label"> Patologia </label>
+            <input asp-for="Usuarios.Patologia" class="form-control">
+        </div>
+         <div class="mb-3">
+            <label class="form-label"> Tipo Patologia </label>
+            <input asp-for="Usuarios.TipoPatologia" class="form-control">
+        </div>
+         <div class="mb-3">
+            <label class="form-label"> Tipo de Exame </label>
+            <input asp-for="Usuarios.TipoExame" class="form-control">
+        </div>
+         <div class="mb-3">
+            <label class="form-label"> Resultado </label>
+            <input asp-for="Usuarios.Resultado" class="form-control">
+        </div>
+        
+
+
+        <button class="btn btn-warning"> Atualizar </button>
+
+
+        <a href="/Usuarios" class="btn btn-secondary"> Voltar </a>
+    </form>
+</div>
